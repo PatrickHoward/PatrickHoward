@@ -1,13 +1,11 @@
-## Why hello there! 👋
+## 👋 Why hello there!
 The name is Patrick! I'm a student at the Universtiy of Akron and a software developer with Strife AI LLC. 
 I'm very interested in systems-level programing, things such as graphics, games, web-backends, operating systems, and more. 
 I really enjoy programming in Rust 🦀, Swift 🍎, C/C++ 💻, and Python 🐍. But I have worked in plenty of other languages as well.
 Lately my work has largely focused in C++
 
-### 📫 Contact
-Feel free to reach out to me by Twitter, @MontyPatrick or at pmontgomeryhoward@gmail.com
-
 ### 📦 Projects
+#### C.H.A.S.E.R.
 Currently I am working with a small team developing C.H.A.S.E.R. a platformer-runner that utilizes machine learning to pit a robot that learns from the player's actions.
 
 #### [Minute To Midnight](https://github.com/PatrickHoward/minute-to-midnight)
@@ -19,6 +17,8 @@ Built with (Link00000000)[https://github.com/link00000000], Scribble is a code-e
 
 I've also done some school projects that are featured here on my Github.
 
+### 📫 Contact
+Feel free to reach out to me by Twitter, @MontyPatrick or at pmontgomeryhoward@gmail.com
 <!--
 **PatrickHoward/PatrickHoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
