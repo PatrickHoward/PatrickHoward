@@ -7,7 +7,7 @@ Lately my work has largely focused in C++
 ### 📫 Contact
 Feel free to reach out to me by Twitter, @MontyPatrick or at pmontgomeryhoward@gmail.com
 
-### Projects
+### 📦 Projects
 Currently I am working with a small team developing C.H.A.S.E.R. a platformer-runner that utilizes machine learning to pit a robot that learns from the player's actions.
 
 #### [Minute To Midnight](https://github.com/PatrickHoward/minute-to-midnight)
