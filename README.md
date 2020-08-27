@@ -6,7 +6,7 @@ Lately my work has largely focused in C++
 
 ### 📦 Projects
 #### C.H.A.S.E.R.
-Currently I am working with a small team developing C.H.A.S.E.R. a platformer-runner that utilizes machine learning to pit a robot that learns from the player's actions.
+Currently I am working with a small team developing C.H.A.S.E.R. a platformer-runner that utilizes machine learning to put a robot against the player that learns from the player's actions.
 
 #### [Minute To Midnight](https://github.com/PatrickHoward/minute-to-midnight)
 A short game for the 2020 UACM Spring Break game jam. The theme was "One minute to win". Minute to midnight is centered around your constantly dimming light that on its own,
