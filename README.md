@@ -13,7 +13,7 @@ A short game for the 2020 UACM Spring Break game jam. The theme was "One minute 
 only lasts a minute.
 
 #### [Scribble](https://github.com/Scribble-Editor)
-Built with (Link00000000)[https://github.com/link00000000], Scribble is a code-editor for the cloud. It can run a Python interpreter and cross compile C++ code.
+Built with [Link00000000](https://github.com/link00000000), Scribble is a code-editor for the cloud. It can run a Python interpreter and cross compile C++ code.
 
 I've also done some school projects that are featured here on my Github.
 
