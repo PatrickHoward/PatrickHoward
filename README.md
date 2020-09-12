@@ -5,7 +5,7 @@ I really enjoy programming in Rust 🦀, Swift 🍎, C/C++ 💻, and Python 🐍
 Lately my work has largely focused in C++
 
 ### 📦 Projects
-#### C.H.A.S.E.R.
+#### [C.H.A.S.E.R.](https://store.steampowered.com/app/1400190/CHASER)
 Currently I am working with a small team developing C.H.A.S.E.R. a platformer-runner that utilizes machine learning to put a robot against the player that learns from the player's actions.
 
 #### [Minute To Midnight](https://github.com/PatrickHoward/minute-to-midnight)
