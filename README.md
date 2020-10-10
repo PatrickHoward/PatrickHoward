@@ -16,6 +16,9 @@ only lasts a minute.
 #### [Scribble](https://github.com/Scribble-Editor)
 Built with [Link00000000](https://github.com/link00000000), Scribble is a code-editor for the cloud. It can run a Python interpreter and cross compile C++ code.
 
+#### [Adventure Buddy](https://github.com/PatrickHoward/Adventure-Buddy)
+A simple ascii game that uses a Breadth First Search pathfinding algorithm and a finite state machine for AI behavior.
+
 I've also done some school projects that are featured here on my Github.
 
 ### 🤔 My current learning interests...
