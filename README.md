@@ -1,13 +1,18 @@
 ## 👋 Why hello there!
-The name is Patrick (He/Him)! I'm a student at the Universtiy of Akron and a software developer with Strife AI LLC. 
-I'm very interested in systems-level programing, things such as graphics, games, web-backends, operating systems, and more. 
-I really enjoy programming in Rust 🦀, Swift 🍎, C/C++ 💻, and Python 🐍. But I have worked in plenty of other languages as well (C#, Objective-C, Java, and Javascript to name a few). Lately my work has largely focused in C++.
+The name is Patrick (He/Him)! I'm a student at the Universtiy of Akron and a software developer/co-founder with Strife AI LLC. 
+My primary work interests are in building games, creating powerful/easy to use tools, iOS apps, WASM apps, and plenty more. I really enjoy programming in Rust 🦀, Swift 🍎, and C/C++ 💻. But I have worked in plenty of other languages as well (C#, Objective-C, Java, and Javascript to name a few). Lately my work has largely focused in C++.
 
-Outside of programming I do digital creative work such as 3D modeling and animation (Autodesk Maya), photo manipulation (Adobe Photoshop / Krita), and video editing (Adobe Premiere Pro). 
+Outside of programming I do digital creative work such as 3D modeling and animation (Autodesk Maya / Blender), photo manipulation (Adobe Photoshop / Krita), and video editing (Adobe Premiere Pro). As well as plenty of hobbies to keep me occupied such as Swimming, Photography, Coffee, and Travel.
 
 ### 📦 Projects
+#### [HAWKengine/Project SkyHAWK]()
+3D Game engine and game for my upcoming senior project during Spring of 2021. Inspired by Bandai/Namco's Ace Combat series.
+
 #### [C.H.A.S.E.R.](https://store.steampowered.com/app/1400190/CHASER)
 Currently I am working with a small team developing C.H.A.S.E.R. a platformer-runner that utilizes machine learning to put a robot against the player that learns from the player's actions. The game is available at the link above on Steam Early Access!
+
+#### [RonaCollege](https://ronacollege.com)
+Website for forming study groups in the time of COVID-19, I helped continue development on the project and expanded some of the functionality.
 
 #### [Minute To Midnight](https://github.com/PatrickHoward/minute-to-midnight)
 A short game for the 2020 UACM Spring Break game jam. The theme was "One minute to win". Minute to midnight is centered around your constantly dimming light that on its own,
@@ -22,7 +27,9 @@ A simple ascii game that uses a Breadth First Search pathfinding algorithm and a
 I've also done some school projects that are featured here on my Github.
 
 ### 🤔 My current learning interests...
-* Vulkan and Metal
+* OpenGL and Metal
+* Game Engine Architecture
+* Professional App Design & Development
 * iOS/MacOS development
 * WebAssembly
 
