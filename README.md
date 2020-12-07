@@ -27,6 +27,7 @@ A simple ascii game that uses a Breadth First Search pathfinding algorithm and a
 I've also done some school projects that are featured here on my Github.
 
 ### 🤔 My current learning interests...
+* UI/UX deisgn of professional tools
 * OpenGL and Metal
 * Game Engine Architecture
 * Professional App Design & Development
