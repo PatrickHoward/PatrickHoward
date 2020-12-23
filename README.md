@@ -8,8 +8,8 @@ Outside of programming I do digital creative work such as 3D modeling and animat
 #### [HAWKengine/Project SkyHAWK]()
 3D Game engine and game for my upcoming senior project during Spring of 2021. Inspired by Bandai/Namco's Ace Combat series.
 
-#### [C.H.A.S.E.R.](https://store.steampowered.com/app/1400190/CHASER)
-Currently I am working with a small team developing C.H.A.S.E.R. a platformer-runner that utilizes machine learning to put a robot against the player that learns from the player's actions. The game is available at the link above on Steam Early Access!
+#### [Human-Like](https://store.steampowered.com/app/1400190/Human-Like)
+I worked with a small team to develop Human-Like a platformer-runner that utilizes machine learning to put a robot against the player that learns from the player's actions. The game is available at the link above on Steam!
 
 #### [RonaCollege](https://ronacollege.com)
 Website for forming study groups in the time of COVID-19, I helped continue development on the project and expanded some of the functionality.
