@@ -28,6 +28,7 @@ I've also done some school projects that are featured here on my Github.
 
 ### 🤔 My current learning interests...
 * UI/UX deisgn of professional tools
+* SwiftUI
 * OpenGL and Metal
 * Game Engine Architecture
 * Professional App Design & Development
