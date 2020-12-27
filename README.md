@@ -5,6 +5,9 @@ My primary work interests are in building games, creating powerful/easy to use t
 Outside of programming I do digital creative work such as 3D modeling and animation (Autodesk Maya / Blender), photo manipulation (Adobe Photoshop / Krita), and video editing (Adobe Premiere Pro). As well as plenty of hobbies to keep me occupied such as Swimming, Photography, Coffee, and Travel.
 
 ### 📦 Projects
+#### [Strife.Engine](https://github.com/Strife-AI/Strife.Engine)
+2D Game engine built and optimized for machine learning and artifiical intelligence! Built by [Strife AI](https://github.com/Strife-AI)
+
 #### [HAWKengine/Project SkyHAWK]()
 3D Game engine and game for my upcoming senior project during Spring of 2021. Inspired by Bandai/Namco's Ace Combat series.
 
