@@ -39,7 +39,7 @@ I've also done some school projects that are featured here on my Github.
 * WebAssembly
 
 ### 📫 Contact
-Feel free to reach out to me by Twitter, @MontyPatrick or at pmontgomeryhoward@gmail.com
+Feel free to reach out to me by Twitter, @MontyPatrick or at patrickmhoward@icloud.com
 
 <!--
 **PatrickHoward/PatrickHoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
