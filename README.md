@@ -9,7 +9,7 @@ Outside of programming I do digital creative work such as 3D modeling and animat
 2D Game engine built and optimized for machine learning and artifiical intelligence! Built by [Strife AI](https://github.com/Strife-AI)
 
 #### [HAWKengine/Project SkyHAWK](https://github.com/PatrickHoward/project-skyhawk)
-3D Game engine and game for my upcoming senior project during Spring of 2021. Inspired by Bandai/Namco's Ace Combat series.
+3D Game engine and game for my upcoming senior project during Spring of 2022. Inspired by Bandai/Namco's Ace Combat series.
 
 #### [Human-Like](https://store.steampowered.com/app/1400190/Human-Like)
 I worked with a small team to develop Human-Like a platformer-runner that utilizes machine learning to put a robot against the player that learns from the player's actions. The game is available at the link above on Steam!
