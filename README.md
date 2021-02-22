@@ -5,6 +5,9 @@ My primary work interests are in building games, creating powerful/easy to use t
 Outside of programming I do digital creative work such as 3D modeling and animation (Autodesk Maya / Blender), photo manipulation (Adobe Photoshop / Krita), and video editing (Adobe Premiere Pro). As well as plenty of hobbies to keep me occupied such as Swimming, Photography, Coffee, and Travel.
 
 ### 📦 Projects
+### [Plumber](https://github.com/PatrickHoward/plumber)
+Quick little tool I'm hacking together right now to help streamline pushing builds to Steam.
+
 #### [Strife.Engine](https://github.com/Strife-AI/Strife.Engine)
 2D Game engine built and optimized for machine learning and artifiical intelligence! Built by [Strife AI](https://github.com/Strife-AI)
 
@@ -39,7 +42,7 @@ I've also done some school projects that are featured here on my Github.
 * WebAssembly
 
 ### 📫 Contact
-Feel free to reach out to me by Twitter, @MontyPatrick or at patrickmhoward@icloud.com
+Feel free to reach out to me by Twitter, @MontyPatrick or at patrickmhoward@icloud.com / patrick@strife.ai
 
 <!--
 **PatrickHoward/PatrickHoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
