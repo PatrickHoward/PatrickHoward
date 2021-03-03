@@ -5,30 +5,21 @@ My primary work interests are in building games, creating powerful/easy to use t
 Outside of programming I do digital creative work such as 3D modeling and animation (Autodesk Maya / Blender), photo manipulation (Adobe Photoshop / Krita), and video editing (Adobe Premiere Pro). As well as plenty of hobbies to keep me occupied such as Swimming, Photography, Coffee, and Travel.
 
 ### 📦 Projects
-#### [Plumber](https://github.com/PatrickHoward/plumber)
-Quick little tool I'm hacking together right now to help streamline pushing builds to Steam.
+#### [Plumber](https://github.com/PatrickHoward/plumber) - Quick little tool I'm hacking together right now to help streamline pushing builds to Steam.
 
-#### [Strife.Engine](https://github.com/Strife-AI/Strife.Engine)
-2D Game engine built and optimized for machine learning and artifiical intelligence! Built by [Strife AI](https://github.com/Strife-AI)
+#### [Strife.Engine](https://github.com/Strife-AI/Strife.Engine) - 2D Game engine built and optimized for machine learning and artifiical intelligence! Built with [Strife AI](https://github.com/Strife-AI)
 
-#### [HAWKengine/Project SkyHAWK](https://github.com/PatrickHoward/project-skyhawk)
-3D Game engine and game for my upcoming senior project during Spring of 2022. Inspired by Bandai/Namco's Ace Combat series.
+#### [HAWKengine/Project SkyHAWK](https://github.com/PatrickHoward/project-skyhawk) - 3D Game engine and game for my upcoming senior project during Spring of 2022. Inspired by Bandai/Namco's Ace Combat series.
 
-#### [Human-Like](https://store.steampowered.com/app/1400190/Human-Like)
-I worked with a small team to develop Human-Like a platformer-runner that utilizes machine learning to put a robot against the player that learns from the player's actions. The game is available at the link above on Steam!
+#### [Human-Like](https://store.steampowered.com/app/1400190/Human-Like) - A platformer-runner that utilizes machine learning to put a robot against the player that learns from the player's actions. The game is available at the link above on Steam! Built with [Strife AI](https://github.com/Strife-AI)
 
-#### [RonaCollege](https://ronacollege.com)
-Website for forming study groups in the time of COVID-19, I helped continue development on the project and expanded some of the functionality.
+#### [RonaCollege](https://ronacollege.com) Website for forming study groups in the time of COVID-19, I helped continue development on the project and expanded some of the functionality.
 
-#### [Minute To Midnight](https://github.com/PatrickHoward/minute-to-midnight)
-A short game for the 2020 UACM Spring Break game jam. The theme was "One minute to win". Minute to midnight is centered around your constantly dimming light that on its own,
-only lasts a minute.
+#### [Minute To Midnight](https://github.com/PatrickHoward/minute-to-midnight) - A short game for the 2020 UACM Spring Break game jam. The theme was "One minute to win". Minute to midnight is centered around your constantly dimming light that on its own, only lasts a minute.
 
-#### [Scribble](https://github.com/Scribble-Editor)
-Built with [Link00000000](https://github.com/link00000000), Scribble is a code-editor for the cloud. It can run a Python interpreter and cross compile C++ code.
+#### [Scribble](https://github.com/Scribble-Editor) - Built with [Link00000000](https://github.com/link00000000), Scribble is a code-editor for the cloud. It can run a Python interpreter and cross compile C++ code.
 
-#### [Adventure Buddy](https://github.com/PatrickHoward/Adventure-Buddy)
-A simple ascii game that uses a Breadth First Search pathfinding algorithm and a finite state machine for AI behavior.
+#### [Adventure Buddy](https://github.com/PatrickHoward/Adventure-Buddy) - A simple ascii game that uses a Breadth First Search pathfinding algorithm and a finite state machine for AI behavior.
 
 I've also done some school projects that are featured here on my Github.
 
