@@ -4,6 +4,8 @@ My primary work interests are in building games, creating powerful/easy to use t
 
 Outside of programming I do digital creative work such as 3D modeling and animation (Autodesk Maya / Blender), photo manipulation (Adobe Photoshop / Krita), and video editing (Adobe Premiere Pro). As well as plenty of hobbies to keep me occupied such as Swimming, Photography, Coffee, and Travel.
 
+Feel free to take a look at my [Resume](https://www.icloud.com/iclouddrive/06Kp1PSRpwh-xFHn6TrXHAkVw#PMHResume%5FPublic)
+
 ### 📦 Projects
 #### [Plumber](https://github.com/PatrickHoward/plumber) - Quick little tool I'm hacking together right now to help streamline pushing builds to Steam.
 #### [Strife.Engine](https://github.com/Strife-AI/Strife.Engine) - 2D Game engine built and optimized for machine learning and artifiical intelligence! Built with [Strife AI](https://github.com/Strife-AI)
