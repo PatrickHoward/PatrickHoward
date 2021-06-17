@@ -7,7 +7,7 @@ Outside of programming I do digital creative work such as 3D modeling and animat
 Feel free to take a look at my [Resume](https://www.icloud.com/iclouddrive/06Kp1PSRpwh-xFHn6TrXHAkVw#PMHResume%5FPublic)
 
 ### 📦 Projects
-#### [Deckforge](https://Deckforge.com) - Deckbuilding card game that has customizable card-art. I helped in improving the existing codebase and build the frontend game client. 
+#### [Deckforge](https://Deckforge.com) - Deckbuilding card game that has customizable card-art. I helped in ~~improving~~ rewriting the existing codebase from the ground up for multiplayer 
 #### [Plumber](https://github.com/PatrickHoward/plumber) - Quick little tool I'm hacking together right now to help streamline pushing builds to Steam.
 #### [Strife.Engine](https://github.com/Strife-AI/Strife.Engine) - 2D Game engine built and optimized for machine learning and artifiical intelligence! Built with [Strife AI](https://github.com/Strife-AI)
 #### [HAWKengine/Project SkyHAWK](https://github.com/PatrickHoward/project-skyhawk) - 3D Game engine and game for my upcoming senior project during Spring of 2022. Inspired by Bandai/Namco's Ace Combat series.
