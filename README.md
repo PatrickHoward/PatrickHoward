@@ -7,6 +7,7 @@ Outside of programming I do digital creative work such as 3D modeling and animat
 Feel free to take a look at my [Resume](https://www.icloud.com/iclouddrive/06Kp1PSRpwh-xFHn6TrXHAkVw#PMHResume%5FPublic)
 
 ### 📦 Projects
+#### Crimson Court (Website WIP) - A backstabbing card game with a secret timer! I'll be taking care of development and seeing it from inception all the way to a completed game. Planned targets are for Windows, Mac, Linux, iOS, and Android. Game design by [BKGameDesign](https://github.com/BKGameDesign) and art by [LexyAlfman](https://github.com/lexyalfman)!
 #### [Deckforge](https://Deckforge.com) - Deckbuilding card game that has customizable card-art. I helped in ~~improving~~ rewriting the existing codebase from the ground up for multiplayer 
 #### [Plumber](https://github.com/PatrickHoward/plumber) - Quick little tool I'm hacking together right now to help streamline pushing builds to Steam.
 #### [Strife.Engine](https://github.com/Strife-AI/Strife.Engine) - 2D Game engine built and optimized for machine learning and artifiical intelligence! Built with [Strife AI](https://github.com/Strife-AI)
