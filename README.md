@@ -1,5 +1,5 @@
 ## 👋 Why hello there!
-The name is Patrick (He/Him)! I'm CEO and Director of Experiences at RustBit Studio and a student at the Universtiy of Akron. 
+The name is Patrick (He/Him)! I'm CEO and Director of Experiences at [RustBit Studio](https://rustbit.com) and a student at the Universtiy of Akron. 
 My primary work interests are in building games, creating powerful/easy to use tools, Apple-Platform apps, WASM apps, and plenty more. I really enjoy programming in Rust 🦀, Swift 🍎, and C/C++ 💻. But I have worked in plenty of other languages as well (C#, Objective-C, Java, and Javascript to name a few). Lately my work has largely focused in C++ and Rust.
 
 Outside of programming I do digital creative work such as 3D modeling and animation (Autodesk Maya / Blender), photo manipulation (Adobe Photoshop / Krita), and video editing (Adobe Premiere Pro). As well as plenty of hobbies to keep me occupied such as Swimming, Photography, Coffee, and Travel.
@@ -7,7 +7,8 @@ Outside of programming I do digital creative work such as 3D modeling and animat
 Feel free to take a look at my [Resume](https://www.icloud.com/iclouddrive/06Kp1PSRpwh-xFHn6TrXHAkVw#PMHResume%5FPublic)
 
 ### 📦 Projects
-#### Crimson Court (Website WIP) - A backstabbing card game with a secret timer! I'll be taking care of development and seeing it from inception all the way to a completed game. Planned targets are for Windows, Mac, Linux, iOS, and Android. Game design by [BKGameDesign](https://github.com/BKGameDesign) and art by [LexyAlfman](https://github.com/lexyalfman)!
+#### [The Grip of Madness](https://gripofmadness.com) - Eldritch horrors from alternate dimensions are opening portals into our plane of existence for reasons unknown. It is up to you and your band of friends to close them. Fend off otherworldly beasts, gather clues, and perform the ritual. But be warned, the madness may lead to a member of your team to turn traitorous. The world rests in your hands. Complete the ritual, before its too late! Built at [RustBit Studio](https://rustbit.com)
+#### Crimson Court - A backstabbing card game with a secret timer built at [RustBit Studio](https://rustbit.com)! I'll be taking care of development and seeing it from inception all the way to a completed game. Planned targets are for Windows, Mac, Linux, iOS, and Android. Game design by [BKGameDesign](https://github.com/BKGameDesign) and art by [LexyAlfman](https://github.com/lexyalfman)!
 #### [Deckforge](https://Deckforge.com) - Deckbuilding card game that has customizable card-art. I helped in ~~improving~~ rewriting the existing codebase from the ground up for multiplayer 
 #### [Plumber](https://github.com/PatrickHoward/plumber) - Quick little tool I'm hacking together right now to help streamline pushing builds to Steam.
 #### [Strife.Engine](https://github.com/Strife-AI/Strife.Engine) - 2D Game engine built and optimized for machine learning and artifiical intelligence! Built with [Strife AI](https://github.com/Strife-AI)
